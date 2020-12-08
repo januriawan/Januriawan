@@ -2,9 +2,9 @@
 
 I'm a software engineer hoping to make a positive impact on the world .
 
-🔭 I’m currently working on Ministry of Trade Republic of Indonesia, I've been focused on frontend development & learning applications.
+:bow: I’m currently working on Ministry of Trade Republic of Indonesia, I've been focused on frontend development & learning applications.
 
-I love learning robotic and drones ecosystem :yum: .
+I also love learning robotic :robot: and drones 🔭 ecosystem :yum:. I have 1 cat name Cuplis, you can also call Cemeng :scream_cat:
 
 <!--
 **januriawan/januriawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
