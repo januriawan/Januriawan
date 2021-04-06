@@ -1,8 +1,3 @@
-
-<p align="center">
-  <img width="300" height="200" src="https://i2.wp.com/www.bestworldevents.com/wp-content/uploads/2020/05/Hello-Gif.gif?resize=498%2C498">
-</p>
-
 [![Twitter Badge](https://img.shields.io/badge/-Januriawan-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/januriawan)](https://twitter.com/januriawan)  [![Linkedin Badge](https://img.shields.io/badge/-Januriawan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/januriawan//)](https://www.linkedin.com/in/januriawan/)  [![Gmail Badge](https://img.shields.io/badge/-januriawan@protonmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:januriawan@protonmail.com)](mailto:januriawan@protonmail.com)  [![Website Badge](https://img.shields.io/badge/-januriawan.github.io-c14438?style=flat-square&logo=Website&logoColor=white&link=https://januriawan.github.io)](https://januriawan.github.io)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=januriawan">
