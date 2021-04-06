@@ -4,7 +4,15 @@
 
 I'm a software engineer hoping to make a positive impact on the world .
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+
+:bow: I’m currently working on Ministry of Trade Republic of Indonesia, I've been focused on frontend development & learning applications.
+
+I also love learning robotic :robot: and drones 🔭 ecosystem :yum:. I have 1 cat name Cuplis, you can also call Cemeng :scream_cat:
+
+
+
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=januriawan">![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
@@ -21,12 +29,4 @@ I'm a software engineer hoping to make a positive impact on the world .
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
-:bow: I’m currently working on Ministry of Trade Republic of Indonesia, I've been focused on frontend development & learning applications.
-
-I also love learning robotic :robot: and drones 🔭 ecosystem :yum:. I have 1 cat name Cuplis, you can also call Cemeng :scream_cat:
-
-
-
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=januriawan">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=januriawan&count_private=true&show_icons=true">
