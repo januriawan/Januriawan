@@ -10,7 +10,7 @@ I'm a software engineer hoping to make a positive impact on the world .
 
 I also love learning robotic :robot: and drones 🔭 ecosystem :yum:. I have 1 cat name Cuplis, you can also call Cemeng :scream_cat:
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=januriawan">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=januriawan"></img>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -31,3 +31,4 @@ I also love learning robotic :robot: and drones 🔭 ecosystem :yum:. I have 1 c
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=januriawan&count_private=true&show_icons=true">
+</img>
