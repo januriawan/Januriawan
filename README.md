@@ -6,7 +6,7 @@
 I'm a software engineer hoping to make a positive impact on the world .
 
 
-:bow: I’m currently working on Ministry of Trade Republic of Indonesia, I've been focused on frontend development & learning applications.
+I’m currently working on Ministry of Trade Republic of Indonesia, I've been focused on frontend development & learning applications.
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=januriawan"></img>
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
