@@ -8,8 +8,6 @@ I'm a software engineer hoping to make a positive impact on the world .
 
 :bow: I’m currently working on Ministry of Trade Republic of Indonesia, I've been focused on frontend development & learning applications.
 
-I also love learning robotic :robot: and drones 🔭 ecosystem :yum:. I have 1 cat name Cuplis, you can also call Cemeng :scream_cat:
-
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=januriawan"></img>
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
